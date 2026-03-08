@@ -1,0 +1,63 @@
+Version 2 - nice to have
+
+I. Fällor:
+Jag har lagt till fällor på spelplanen.
+Om spelaren går på en ruta med en fälla förlorar man 10 poäng.
+Fällan ligger kvar och kan aktiveras flera gånger.
+
+J. Spade:
+Spaden är en ny sak man kan plocka upp.
+När spelaren går in i en vägg används spaden automatiskt för att ta bort väggen.
+Spaden förbrukas då.
+
+K. Nycklar och kistor:
+Minst en nyckel och lika många kistor slumpas ut på kartan.
+När spelaren går på en nyckel plockas den upp i inventoryt.
+Om spelaren går till en kista och har minst en nyckel öppnas kistan och ger en skatt värd 100 poäng. Nyckeln förbrukas.
+
+L. Bördig jord:
+Efter varje 25:e drag skapas en ny frukt eller grönsak någonstans på kartan.
+Detta gör att spelvärlden fylls på med nya resurser under spelets gång.
+
+M. Exit:
+En exit-ruta ("E") slumpas ut på kartan.
+När spelaren har plockat upp alla ursprungliga saker kan man gå till exit för att vinna spelet.
+Innan dess har exit ingen effekt.
+
+N. Jump:
+Om spelaren skriver "J" före en rörelseriktning (t.ex. JW) hoppar man två steg i den riktningen. Man interagerar bara med rutan man landar på.
+Hoppar man in i en vägg fungerar det som en vanlig kollision.
+
+Version 2 – Sammanfattning av nya funktioner
+
+I Version 2 har jag byggt vidare på spelets grundmekanik och lagt till flera nya element
+som gör spelet mer strategiskt och varierat.
+
+Fällor:
+Jag har lagt till fällor som spelaren kan trampa på.
+Varje gång man går på en fälla förlorar man 10 poäng.
+Fällorna ligger kvar och kan aktiveras flera gånger.
+
+Spade:
+En ny pickup är spaden. När spelaren har en spade i inventoryt och går in i en
+vägg används spaden automatiskt för att ta bort väggen. Spaden förbrukas då.
+
+Nycklar och kistor:
+Jag har lagt till nycklar och kistor som slumpas ut på kartan.
+Plockar man upp en nyckel sparas den i inventoryt.
+Om man går på en kista och har minst en nyckel öppnas kistan och ger en skatt värd 100 poäng.
+Nyckeln förbrukas.
+
+Bördig jord:
+Efter varje 25:e drag skapas en ny frukt eller grönsak någonstans på kartan.
+Det gör att spelvärlden fortsätter att fyllas på med resurser under spelets gång.
+
+Exit:
+En exit-ruta slumpas ut på kartan.
+När spelaren har plockat upp alla ursprungliga saker kan man gå till exit för att vinna spelet
+Innan dess har exit ingen effekt.
+
+Jump-funktion:
+Spelaren kan skriva "J" före en rörelse (t.ex. JW) för att hoppa två steg i en riktning.
+Man interagerar bara med rutan man landar på.
+Hoppar man in i en vägg fungerar det som en vanlig kollision.
